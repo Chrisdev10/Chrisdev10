@@ -5,4 +5,5 @@
 - 💯 i'm in love with Java 
 - 🧠 i'm currently working on my Angular skills 
 - 🏆 My 2021 goals: become a better programmer
-- 🐔 Fun fact: I love chicken
+- 🐔 Fun fact: I love chickenn
+- 🐔 Fun fact: I love chickenn
