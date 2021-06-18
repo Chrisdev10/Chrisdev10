@@ -9,5 +9,5 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/Chrisdev10/image/main/angular.jpg" />
-<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/Chrisdev10/image/main/angular.jpg" />
+<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/Chrisdev10/image/main/angular-icon-1-logo-png-transparent.png" />
+<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/Chrisdev10/image/main/angular-icon-1-logo-png-transparent.png" />
