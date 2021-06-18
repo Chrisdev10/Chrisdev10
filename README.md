@@ -2,7 +2,7 @@
 
 ## I'm self-taught in programming and i love bodybuilding 💪 🍖
 - 📖 I'm currently learning the basics of programming through formation 
-- 💯 i'm in love with Java 
+- 😻 i'm in love with Java 
 - 🧠 i'm currently working on my Angular skills 
 - 🏆 My 2021 goals: become a better programmer
 - 🐔 Fun fact: I love chickenn
@@ -24,3 +24,11 @@
 <img align="left" alt="intellij" width="30px" src="https://raw.githubusercontent.com/Chrisdev10/image/main/202422_normal.png" />
 
 <br />
+<br />
+
+### My social Media 
+
+<img align="left" alt="facebook" width="30px" src="https://raw.githubusercontent.com/Chrisdev10/image/main/facebook.png" href="https://www.facebook.com/christophe.delbeke.1" />
+<img align="left" alt="instagram" width="30px" src="https://raw.githubusercontent.com/Chrisdev10/image/main/instagram.png" href="https://www.instagram.com/chris_bodyfit/"  />
+<img align="left" alt="twitter" width="30px" src="https://raw.githubusercontent.com/Chrisdev10/image/main/twitter.png" />
+<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/Chrisdev10/image/main/linkedin.png" href="https://www.linkedin.com/in/christophe-delbeke-a70285215/" />
