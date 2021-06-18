@@ -6,3 +6,7 @@
 - 🧠 i'm currently working on my Angular skills 
 - 🏆 My 2021 goals: become a better programmer
 - 🐔 Fun fact: I love chickenn
+
+### Languages and Tools:
+
+[<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/Chrisdev10/image/main/angular.jpg" />]
